@@ -1,0 +1,3 @@
+├── index.html         # Main HTML file with UI and script links
+├── scriptnew.js       # Main Three.js logic for scene, animation, interaction
+├── three.js           # Three.js library (local)
